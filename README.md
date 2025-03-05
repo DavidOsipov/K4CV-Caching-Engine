@@ -1,7 +1,7 @@
 # Keywords4CV Caching Framework
 A high-performance caching engine for Keywords4CV and beyond
 
-[![CI](https://github.com/DavidOsipov/k4cv-caching-engine/actions/workflows/ci.yml/badge.svg)](https://github.com/your-username/k4cv-caching-engine/actions/workflows/ci.yml)
+[![CI](https://github.com/DavidOsipov/k4cv-caching-engine/actions/workflows/ci.yml/badge.svg)](https://github.com/DavidOsipov/k4cv-caching-engine/actions/workflows/ci.yml)
 [![PyPI version](https://badge.fury.io/py/k4cv-caching-engine.svg)](https://badge.fury.io/py/k4cv-caching-engine)
 [![Documentation Status](https://readthedocs.org/projects/k4cv-caching-engine/badge/?version=latest)](https://k4cv-caching-engine.readthedocs.io/en/latest/?badge=latest)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
