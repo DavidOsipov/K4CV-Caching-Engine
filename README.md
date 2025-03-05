@@ -31,4 +31,4 @@ A high-performance, thread-safe, and extensible caching engine originally develo
 **Using pip:**
 
 ```bash
-pip install k4cv-caching-engine
+pip install k4cv-caching-framework
